@@ -54,5 +54,107 @@ namespace WindowsFormsApp1
             for (int i = 0; i < 5; i++)
                 this.Controls["label" + i].Text = teams[i].name;
         }
+
+        private void label33_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail();
+            adminForm.Show();
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail();
+            adminForm.Show();
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail();
+            adminForm.Show();
+        }
+
+        private void label15_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail();
+            adminForm.Show();
+        }
+
+        private void label23_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail();
+            adminForm.Show();
+        }
+
+        private void label26_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail();
+            adminForm.Show();
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail();
+            adminForm.Show();
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail();
+            adminForm.Show();
+        }
+
+        private void label21_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail();
+            adminForm.Show();
+        }
+
+        private void label41_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail();
+            adminForm.Show();
+        }
+
+        private void label18_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail();
+            adminForm.Show();
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail();
+            adminForm.Show();
+        }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail();
+            adminForm.Show();
+        }
+
+        private void label22_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail();
+            adminForm.Show();
+        }
+
+        private void label42_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail();
+            adminForm.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Visitor_Menu();
+            adminForm.Show();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Teams_Main__2_();
+            adminForm.Show();
+        }
     }
 }

@@ -34,9 +34,6 @@
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
-            this.label21 = new System.Windows.Forms.Label();
-            this.label22 = new System.Windows.Forms.Label();
-            this.label23 = new System.Windows.Forms.Label();
             this.label24 = new System.Windows.Forms.Label();
             this.label25 = new System.Windows.Forms.Label();
             this.pictureBox10 = new System.Windows.Forms.PictureBox();
@@ -45,19 +42,14 @@
             this.pictureBox12 = new System.Windows.Forms.PictureBox();
             this.textBox11 = new System.Windows.Forms.TextBox();
             this.pictureBox13 = new System.Windows.Forms.PictureBox();
-            this.label27 = new System.Windows.Forms.Label();
             this.label30 = new System.Windows.Forms.Label();
             this.label31 = new System.Windows.Forms.Label();
             this.textBox12 = new System.Windows.Forms.TextBox();
             this.pictureBox15 = new System.Windows.Forms.PictureBox();
-            this.label33 = new System.Windows.Forms.Label();
             this.label34 = new System.Windows.Forms.Label();
             this.label35 = new System.Windows.Forms.Label();
             this.textBox13 = new System.Windows.Forms.TextBox();
             this.textBox15 = new System.Windows.Forms.TextBox();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
@@ -66,19 +58,14 @@
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
-            this.label15 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
             this.textBox7 = new System.Windows.Forms.TextBox();
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
-            this.label18 = new System.Windows.Forms.Label();
             this.label19 = new System.Windows.Forms.Label();
             this.label20 = new System.Windows.Forms.Label();
             this.textBox8 = new System.Windows.Forms.TextBox();
             this.textBox9 = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -87,12 +74,10 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            this.label4 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.textBox6 = new System.Windows.Forms.TextBox();
             this.pictureBox14 = new System.Windows.Forms.PictureBox();
-            this.label26 = new System.Windows.Forms.Label();
             this.label28 = new System.Windows.Forms.Label();
             this.label29 = new System.Windows.Forms.Label();
             this.textBox14 = new System.Windows.Forms.TextBox();
@@ -103,6 +88,51 @@
             this.pictureBox16 = new System.Windows.Forms.PictureBox();
             this.label36 = new System.Windows.Forms.Label();
             this.button4 = new System.Windows.Forms.Button();
+            this.label33 = new System.Windows.Forms.Label();
+            this.label27 = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
+            this.label26 = new System.Windows.Forms.Label();
+            this.label37 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label38 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label21 = new System.Windows.Forms.Label();
+            this.label22 = new System.Windows.Forms.Label();
+            this.label23 = new System.Windows.Forms.Label();
+            this.label39 = new System.Windows.Forms.Label();
+            this.label40 = new System.Windows.Forms.Label();
+            this.label41 = new System.Windows.Forms.Label();
+            this.label42 = new System.Windows.Forms.Label();
+            this.label43 = new System.Windows.Forms.Label();
+            this.label44 = new System.Windows.Forms.Label();
+            this.label45 = new System.Windows.Forms.Label();
+            this.label46 = new System.Windows.Forms.Label();
+            this.label47 = new System.Windows.Forms.Label();
+            this.label48 = new System.Windows.Forms.Label();
+            this.label49 = new System.Windows.Forms.Label();
+            this.label50 = new System.Windows.Forms.Label();
+            this.label51 = new System.Windows.Forms.Label();
+            this.label52 = new System.Windows.Forms.Label();
+            this.label53 = new System.Windows.Forms.Label();
+            this.label54 = new System.Windows.Forms.Label();
+            this.label55 = new System.Windows.Forms.Label();
+            this.label56 = new System.Windows.Forms.Label();
+            this.label57 = new System.Windows.Forms.Label();
+            this.label58 = new System.Windows.Forms.Label();
+            this.label59 = new System.Windows.Forms.Label();
+            this.label60 = new System.Windows.Forms.Label();
+            this.label61 = new System.Windows.Forms.Label();
+            this.label62 = new System.Windows.Forms.Label();
+            this.label63 = new System.Windows.Forms.Label();
+            this.label64 = new System.Windows.Forms.Label();
+            this.label65 = new System.Windows.Forms.Label();
+            this.label66 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
@@ -140,6 +170,7 @@
             this.button6.TabIndex = 295;
             this.button6.Text = "Eastern";
             this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button3
             // 
@@ -168,36 +199,6 @@
             this.button1.TabIndex = 291;
             this.button1.Text = "Pacific";
             this.button1.UseVisualStyleBackColor = true;
-            // 
-            // label21
-            // 
-            this.label21.AutoSize = true;
-            this.label21.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label21.Location = new System.Drawing.Point(88, 387);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(175, 13);
-            this.label21.TabIndex = 290;
-            this.label21.Text = "Roster      Matchups      First Lineup";
-            // 
-            // label22
-            // 
-            this.label22.AutoSize = true;
-            this.label22.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label22.Location = new System.Drawing.Point(88, 334);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(175, 13);
-            this.label22.TabIndex = 289;
-            this.label22.Text = "Roster      Matchups      First Lineup";
-            // 
-            // label23
-            // 
-            this.label23.AutoSize = true;
-            this.label23.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label23.Location = new System.Drawing.Point(88, 280);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(175, 13);
-            this.label23.TabIndex = 288;
-            this.label23.Text = "Roster      Matchups      First Lineup";
             // 
             // label24
             // 
@@ -281,16 +282,6 @@
             this.pictureBox13.TabIndex = 279;
             this.pictureBox13.TabStop = false;
             // 
-            // label27
-            // 
-            this.label27.AutoSize = true;
-            this.label27.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label27.Location = new System.Drawing.Point(88, 224);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(175, 13);
-            this.label27.TabIndex = 278;
-            this.label27.Text = "Roster      Matchups      First Lineup";
-            // 
             // label30
             // 
             this.label30.AutoSize = true;
@@ -331,16 +322,6 @@
             this.pictureBox15.TabIndex = 274;
             this.pictureBox15.TabStop = false;
             // 
-            // label33
-            // 
-            this.label33.AutoSize = true;
-            this.label33.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label33.Location = new System.Drawing.Point(88, 174);
-            this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(175, 13);
-            this.label33.TabIndex = 273;
-            this.label33.Text = "Roster      Matchups      First Lineup";
-            // 
             // label34
             // 
             this.label34.AutoSize = true;
@@ -378,36 +359,6 @@
             this.textBox15.Name = "textBox15";
             this.textBox15.Size = new System.Drawing.Size(254, 54);
             this.textBox15.TabIndex = 280;
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label7.Location = new System.Drawing.Point(348, 386);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(175, 13);
-            this.label7.TabIndex = 269;
-            this.label7.Text = "Roster      Matchups      First Lineup";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label8.Location = new System.Drawing.Point(348, 333);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(175, 13);
-            this.label8.TabIndex = 268;
-            this.label8.Text = "Roster      Matchups      First Lineup";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label9.Location = new System.Drawing.Point(348, 279);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(175, 13);
-            this.label9.TabIndex = 267;
-            this.label9.Text = "Roster      Matchups      First Lineup";
             // 
             // label10
             // 
@@ -491,16 +442,6 @@
             this.pictureBox8.TabIndex = 258;
             this.pictureBox8.TabStop = false;
             // 
-            // label15
-            // 
-            this.label15.AutoSize = true;
-            this.label15.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label15.Location = new System.Drawing.Point(348, 223);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(175, 13);
-            this.label15.TabIndex = 257;
-            this.label15.Text = "Roster      Matchups      First Lineup";
-            // 
             // label16
             // 
             this.label16.AutoSize = true;
@@ -541,16 +482,6 @@
             this.pictureBox9.TabIndex = 253;
             this.pictureBox9.TabStop = false;
             // 
-            // label18
-            // 
-            this.label18.AutoSize = true;
-            this.label18.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label18.Location = new System.Drawing.Point(348, 173);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(175, 13);
-            this.label18.TabIndex = 252;
-            this.label18.Text = "Roster      Matchups      First Lineup";
-            // 
             // label19
             // 
             this.label19.AutoSize = true;
@@ -588,36 +519,6 @@
             this.textBox9.Name = "textBox9";
             this.textBox9.Size = new System.Drawing.Size(254, 54);
             this.textBox9.TabIndex = 259;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label6.Location = new System.Drawing.Point(608, 386);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(175, 13);
-            this.label6.TabIndex = 248;
-            this.label6.Text = "Roster      Matchups      First Lineup";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label5.Location = new System.Drawing.Point(608, 333);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(175, 13);
-            this.label5.TabIndex = 247;
-            this.label5.Text = "Roster      Matchups      First Lineup";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label3.Location = new System.Drawing.Point(608, 279);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(175, 13);
-            this.label3.TabIndex = 246;
-            this.label3.Text = "Roster      Matchups      First Lineup";
             // 
             // label2
             // 
@@ -701,16 +602,6 @@
             this.pictureBox6.TabIndex = 237;
             this.pictureBox6.TabStop = false;
             // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label4.Location = new System.Drawing.Point(608, 223);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(175, 13);
-            this.label4.TabIndex = 236;
-            this.label4.Text = "Roster      Matchups      First Lineup";
-            // 
             // label11
             // 
             this.label11.AutoSize = true;
@@ -750,16 +641,6 @@
             this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox14.TabIndex = 232;
             this.pictureBox14.TabStop = false;
-            // 
-            // label26
-            // 
-            this.label26.AutoSize = true;
-            this.label26.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label26.Location = new System.Drawing.Point(608, 173);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(175, 13);
-            this.label26.TabIndex = 231;
-            this.label26.Text = "Roster      Matchups      First Lineup";
             // 
             // label28
             // 
@@ -859,12 +740,538 @@
             this.button4.TabIndex = 301;
             this.button4.Text = "Back";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
+            // 
+            // label33
+            // 
+            this.label33.AutoSize = true;
+            this.label33.BackColor = System.Drawing.SystemColors.Control;
+            this.label33.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label33.Location = new System.Drawing.Point(88, 173);
+            this.label33.Name = "label33";
+            this.label33.Size = new System.Drawing.Size(38, 13);
+            this.label33.TabIndex = 302;
+            this.label33.Text = "Roster";
+            this.label33.Click += new System.EventHandler(this.label33_Click);
+            // 
+            // label27
+            // 
+            this.label27.AutoSize = true;
+            this.label27.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label27.Location = new System.Drawing.Point(132, 173);
+            this.label27.Name = "label27";
+            this.label27.Size = new System.Drawing.Size(54, 13);
+            this.label27.TabIndex = 303;
+            this.label27.Text = "Matchups";
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label18.Location = new System.Drawing.Point(192, 173);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(61, 13);
+            this.label18.TabIndex = 304;
+            this.label18.Text = "First Lineup";
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.BackColor = System.Drawing.SystemColors.Control;
+            this.label15.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label15.Location = new System.Drawing.Point(348, 173);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(38, 13);
+            this.label15.TabIndex = 305;
+            this.label15.Text = "Roster";
+            this.label15.Click += new System.EventHandler(this.label15_Click);
+            // 
+            // label26
+            // 
+            this.label26.AutoSize = true;
+            this.label26.BackColor = System.Drawing.SystemColors.Control;
+            this.label26.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label26.Location = new System.Drawing.Point(608, 173);
+            this.label26.Name = "label26";
+            this.label26.Size = new System.Drawing.Size(38, 13);
+            this.label26.TabIndex = 306;
+            this.label26.Text = "Roster";
+            this.label26.Click += new System.EventHandler(this.label26_Click);
+            // 
+            // label37
+            // 
+            this.label37.AutoSize = true;
+            this.label37.BackColor = System.Drawing.SystemColors.Control;
+            this.label37.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label37.Location = new System.Drawing.Point(88, 226);
+            this.label37.Name = "label37";
+            this.label37.Size = new System.Drawing.Size(38, 13);
+            this.label37.TabIndex = 307;
+            this.label37.Text = "Roster";
+            this.label37.Click += new System.EventHandler(this.label37_Click);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.BackColor = System.Drawing.SystemColors.Control;
+            this.label4.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label4.Location = new System.Drawing.Point(348, 226);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(38, 13);
+            this.label4.TabIndex = 308;
+            this.label4.Text = "Roster";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
+            // 
+            // label38
+            // 
+            this.label38.AutoSize = true;
+            this.label38.BackColor = System.Drawing.SystemColors.Control;
+            this.label38.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label38.Location = new System.Drawing.Point(608, 226);
+            this.label38.Name = "label38";
+            this.label38.Size = new System.Drawing.Size(38, 13);
+            this.label38.TabIndex = 309;
+            this.label38.Text = "Roster";
+            this.label38.Click += new System.EventHandler(this.label38_Click);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.BackColor = System.Drawing.SystemColors.Control;
+            this.label3.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label3.Location = new System.Drawing.Point(88, 280);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(38, 13);
+            this.label3.TabIndex = 310;
+            this.label3.Text = "Roster";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.BackColor = System.Drawing.SystemColors.Control;
+            this.label5.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label5.Location = new System.Drawing.Point(348, 280);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(38, 13);
+            this.label5.TabIndex = 311;
+            this.label5.Text = "Roster";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.BackColor = System.Drawing.SystemColors.Control;
+            this.label6.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label6.Location = new System.Drawing.Point(608, 280);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(38, 13);
+            this.label6.TabIndex = 312;
+            this.label6.Text = "Roster";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.BackColor = System.Drawing.SystemColors.Control;
+            this.label7.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label7.Location = new System.Drawing.Point(88, 334);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(38, 13);
+            this.label7.TabIndex = 313;
+            this.label7.Text = "Roster";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.BackColor = System.Drawing.SystemColors.Control;
+            this.label8.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label8.Location = new System.Drawing.Point(348, 333);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(38, 13);
+            this.label8.TabIndex = 314;
+            this.label8.Text = "Roster";
+            this.label8.Click += new System.EventHandler(this.label8_Click);
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.BackColor = System.Drawing.SystemColors.Control;
+            this.label9.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label9.Location = new System.Drawing.Point(608, 333);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(38, 13);
+            this.label9.TabIndex = 315;
+            this.label9.Text = "Roster";
+            this.label9.Click += new System.EventHandler(this.label9_Click);
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.BackColor = System.Drawing.SystemColors.Control;
+            this.label21.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label21.Location = new System.Drawing.Point(88, 387);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(38, 13);
+            this.label21.TabIndex = 316;
+            this.label21.Text = "Roster";
+            this.label21.Click += new System.EventHandler(this.label21_Click);
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.BackColor = System.Drawing.SystemColors.Control;
+            this.label22.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label22.Location = new System.Drawing.Point(348, 387);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(38, 13);
+            this.label22.TabIndex = 317;
+            this.label22.Text = "Roster";
+            this.label22.Click += new System.EventHandler(this.label22_Click);
+            // 
+            // label23
+            // 
+            this.label23.AutoSize = true;
+            this.label23.BackColor = System.Drawing.SystemColors.Control;
+            this.label23.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label23.Location = new System.Drawing.Point(608, 387);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(38, 13);
+            this.label23.TabIndex = 318;
+            this.label23.Text = "Roster";
+            this.label23.Click += new System.EventHandler(this.label23_Click);
+            // 
+            // label39
+            // 
+            this.label39.AutoSize = true;
+            this.label39.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label39.Location = new System.Drawing.Point(392, 173);
+            this.label39.Name = "label39";
+            this.label39.Size = new System.Drawing.Size(54, 13);
+            this.label39.TabIndex = 319;
+            this.label39.Text = "Matchups";
+            // 
+            // label40
+            // 
+            this.label40.AutoSize = true;
+            this.label40.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label40.Location = new System.Drawing.Point(652, 173);
+            this.label40.Name = "label40";
+            this.label40.Size = new System.Drawing.Size(54, 13);
+            this.label40.TabIndex = 320;
+            this.label40.Text = "Matchups";
+            // 
+            // label41
+            // 
+            this.label41.AutoSize = true;
+            this.label41.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label41.Location = new System.Drawing.Point(132, 226);
+            this.label41.Name = "label41";
+            this.label41.Size = new System.Drawing.Size(54, 13);
+            this.label41.TabIndex = 321;
+            this.label41.Text = "Matchups";
+            // 
+            // label42
+            // 
+            this.label42.AutoSize = true;
+            this.label42.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label42.Location = new System.Drawing.Point(392, 226);
+            this.label42.Name = "label42";
+            this.label42.Size = new System.Drawing.Size(54, 13);
+            this.label42.TabIndex = 322;
+            this.label42.Text = "Matchups";
+            // 
+            // label43
+            // 
+            this.label43.AutoSize = true;
+            this.label43.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label43.Location = new System.Drawing.Point(652, 226);
+            this.label43.Name = "label43";
+            this.label43.Size = new System.Drawing.Size(54, 13);
+            this.label43.TabIndex = 323;
+            this.label43.Text = "Matchups";
+            // 
+            // label44
+            // 
+            this.label44.AutoSize = true;
+            this.label44.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label44.Location = new System.Drawing.Point(132, 280);
+            this.label44.Name = "label44";
+            this.label44.Size = new System.Drawing.Size(54, 13);
+            this.label44.TabIndex = 324;
+            this.label44.Text = "Matchups";
+            // 
+            // label45
+            // 
+            this.label45.AutoSize = true;
+            this.label45.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label45.Location = new System.Drawing.Point(392, 280);
+            this.label45.Name = "label45";
+            this.label45.Size = new System.Drawing.Size(54, 13);
+            this.label45.TabIndex = 325;
+            this.label45.Text = "Matchups";
+            // 
+            // label46
+            // 
+            this.label46.AutoSize = true;
+            this.label46.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label46.Location = new System.Drawing.Point(652, 280);
+            this.label46.Name = "label46";
+            this.label46.Size = new System.Drawing.Size(54, 13);
+            this.label46.TabIndex = 326;
+            this.label46.Text = "Matchups";
+            // 
+            // label47
+            // 
+            this.label47.AutoSize = true;
+            this.label47.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label47.Location = new System.Drawing.Point(132, 334);
+            this.label47.Name = "label47";
+            this.label47.Size = new System.Drawing.Size(54, 13);
+            this.label47.TabIndex = 327;
+            this.label47.Text = "Matchups";
+            // 
+            // label48
+            // 
+            this.label48.AutoSize = true;
+            this.label48.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label48.Location = new System.Drawing.Point(392, 333);
+            this.label48.Name = "label48";
+            this.label48.Size = new System.Drawing.Size(54, 13);
+            this.label48.TabIndex = 328;
+            this.label48.Text = "Matchups";
+            // 
+            // label49
+            // 
+            this.label49.AutoSize = true;
+            this.label49.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label49.Location = new System.Drawing.Point(652, 334);
+            this.label49.Name = "label49";
+            this.label49.Size = new System.Drawing.Size(54, 13);
+            this.label49.TabIndex = 329;
+            this.label49.Text = "Matchups";
+            // 
+            // label50
+            // 
+            this.label50.AutoSize = true;
+            this.label50.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label50.Location = new System.Drawing.Point(132, 387);
+            this.label50.Name = "label50";
+            this.label50.Size = new System.Drawing.Size(54, 13);
+            this.label50.TabIndex = 330;
+            this.label50.Text = "Matchups";
+            // 
+            // label51
+            // 
+            this.label51.AutoSize = true;
+            this.label51.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label51.Location = new System.Drawing.Point(392, 387);
+            this.label51.Name = "label51";
+            this.label51.Size = new System.Drawing.Size(54, 13);
+            this.label51.TabIndex = 331;
+            this.label51.Text = "Matchups";
+            // 
+            // label52
+            // 
+            this.label52.AutoSize = true;
+            this.label52.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label52.Location = new System.Drawing.Point(652, 387);
+            this.label52.Name = "label52";
+            this.label52.Size = new System.Drawing.Size(54, 13);
+            this.label52.TabIndex = 332;
+            this.label52.Text = "Matchups";
+            // 
+            // label53
+            // 
+            this.label53.AutoSize = true;
+            this.label53.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label53.Location = new System.Drawing.Point(452, 173);
+            this.label53.Name = "label53";
+            this.label53.Size = new System.Drawing.Size(61, 13);
+            this.label53.TabIndex = 333;
+            this.label53.Text = "First Lineup";
+            // 
+            // label54
+            // 
+            this.label54.AutoSize = true;
+            this.label54.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label54.Location = new System.Drawing.Point(712, 173);
+            this.label54.Name = "label54";
+            this.label54.Size = new System.Drawing.Size(61, 13);
+            this.label54.TabIndex = 334;
+            this.label54.Text = "First Lineup";
+            // 
+            // label55
+            // 
+            this.label55.AutoSize = true;
+            this.label55.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label55.Location = new System.Drawing.Point(192, 226);
+            this.label55.Name = "label55";
+            this.label55.Size = new System.Drawing.Size(61, 13);
+            this.label55.TabIndex = 335;
+            this.label55.Text = "First Lineup";
+            // 
+            // label56
+            // 
+            this.label56.AutoSize = true;
+            this.label56.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label56.Location = new System.Drawing.Point(452, 226);
+            this.label56.Name = "label56";
+            this.label56.Size = new System.Drawing.Size(61, 13);
+            this.label56.TabIndex = 336;
+            this.label56.Text = "First Lineup";
+            // 
+            // label57
+            // 
+            this.label57.AutoSize = true;
+            this.label57.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label57.Location = new System.Drawing.Point(712, 226);
+            this.label57.Name = "label57";
+            this.label57.Size = new System.Drawing.Size(61, 13);
+            this.label57.TabIndex = 337;
+            this.label57.Text = "First Lineup";
+            // 
+            // label58
+            // 
+            this.label58.AutoSize = true;
+            this.label58.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label58.Location = new System.Drawing.Point(192, 280);
+            this.label58.Name = "label58";
+            this.label58.Size = new System.Drawing.Size(61, 13);
+            this.label58.TabIndex = 338;
+            this.label58.Text = "First Lineup";
+            // 
+            // label59
+            // 
+            this.label59.AutoSize = true;
+            this.label59.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label59.Location = new System.Drawing.Point(452, 280);
+            this.label59.Name = "label59";
+            this.label59.Size = new System.Drawing.Size(61, 13);
+            this.label59.TabIndex = 339;
+            this.label59.Text = "First Lineup";
+            // 
+            // label60
+            // 
+            this.label60.AutoSize = true;
+            this.label60.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label60.Location = new System.Drawing.Point(712, 280);
+            this.label60.Name = "label60";
+            this.label60.Size = new System.Drawing.Size(61, 13);
+            this.label60.TabIndex = 340;
+            this.label60.Text = "First Lineup";
+            // 
+            // label61
+            // 
+            this.label61.AutoSize = true;
+            this.label61.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label61.Location = new System.Drawing.Point(192, 334);
+            this.label61.Name = "label61";
+            this.label61.Size = new System.Drawing.Size(61, 13);
+            this.label61.TabIndex = 341;
+            this.label61.Text = "First Lineup";
+            // 
+            // label62
+            // 
+            this.label62.AutoSize = true;
+            this.label62.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label62.Location = new System.Drawing.Point(452, 334);
+            this.label62.Name = "label62";
+            this.label62.Size = new System.Drawing.Size(61, 13);
+            this.label62.TabIndex = 342;
+            this.label62.Text = "First Lineup";
+            // 
+            // label63
+            // 
+            this.label63.AutoSize = true;
+            this.label63.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label63.Location = new System.Drawing.Point(712, 333);
+            this.label63.Name = "label63";
+            this.label63.Size = new System.Drawing.Size(61, 13);
+            this.label63.TabIndex = 343;
+            this.label63.Text = "First Lineup";
+            // 
+            // label64
+            // 
+            this.label64.AutoSize = true;
+            this.label64.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label64.Location = new System.Drawing.Point(192, 387);
+            this.label64.Name = "label64";
+            this.label64.Size = new System.Drawing.Size(61, 13);
+            this.label64.TabIndex = 344;
+            this.label64.Text = "First Lineup";
+            // 
+            // label65
+            // 
+            this.label65.AutoSize = true;
+            this.label65.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label65.Location = new System.Drawing.Point(452, 387);
+            this.label65.Name = "label65";
+            this.label65.Size = new System.Drawing.Size(61, 13);
+            this.label65.TabIndex = 345;
+            this.label65.Text = "First Lineup";
+            // 
+            // label66
+            // 
+            this.label66.AutoSize = true;
+            this.label66.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label66.Location = new System.Drawing.Point(712, 387);
+            this.label66.Name = "label66";
+            this.label66.Size = new System.Drawing.Size(61, 13);
+            this.label66.TabIndex = 346;
+            this.label66.Text = "First Lineup";
             // 
             // Teams_Main__2_
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label66);
+            this.Controls.Add(this.label65);
+            this.Controls.Add(this.label64);
+            this.Controls.Add(this.label63);
+            this.Controls.Add(this.label62);
+            this.Controls.Add(this.label61);
+            this.Controls.Add(this.label60);
+            this.Controls.Add(this.label59);
+            this.Controls.Add(this.label58);
+            this.Controls.Add(this.label57);
+            this.Controls.Add(this.label56);
+            this.Controls.Add(this.label55);
+            this.Controls.Add(this.label54);
+            this.Controls.Add(this.label53);
+            this.Controls.Add(this.label52);
+            this.Controls.Add(this.label51);
+            this.Controls.Add(this.label50);
+            this.Controls.Add(this.label49);
+            this.Controls.Add(this.label48);
+            this.Controls.Add(this.label47);
+            this.Controls.Add(this.label46);
+            this.Controls.Add(this.label45);
+            this.Controls.Add(this.label44);
+            this.Controls.Add(this.label43);
+            this.Controls.Add(this.label42);
+            this.Controls.Add(this.label41);
+            this.Controls.Add(this.label40);
+            this.Controls.Add(this.label39);
+            this.Controls.Add(this.label23);
+            this.Controls.Add(this.label22);
+            this.Controls.Add(this.label21);
+            this.Controls.Add(this.label9);
+            this.Controls.Add(this.label8);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label38);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label37);
+            this.Controls.Add(this.label26);
+            this.Controls.Add(this.label15);
+            this.Controls.Add(this.label18);
+            this.Controls.Add(this.label27);
+            this.Controls.Add(this.label33);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.label36);
             this.Controls.Add(this.label32);
@@ -875,9 +1282,6 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.label21);
-            this.Controls.Add(this.label22);
-            this.Controls.Add(this.label23);
             this.Controls.Add(this.label24);
             this.Controls.Add(this.label25);
             this.Controls.Add(this.pictureBox10);
@@ -886,19 +1290,14 @@
             this.Controls.Add(this.pictureBox12);
             this.Controls.Add(this.textBox11);
             this.Controls.Add(this.pictureBox13);
-            this.Controls.Add(this.label27);
             this.Controls.Add(this.label30);
             this.Controls.Add(this.label31);
             this.Controls.Add(this.textBox12);
             this.Controls.Add(this.pictureBox15);
-            this.Controls.Add(this.label33);
             this.Controls.Add(this.label34);
             this.Controls.Add(this.label35);
             this.Controls.Add(this.textBox13);
             this.Controls.Add(this.textBox15);
-            this.Controls.Add(this.label7);
-            this.Controls.Add(this.label8);
-            this.Controls.Add(this.label9);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.pictureBox3);
@@ -907,19 +1306,14 @@
             this.Controls.Add(this.pictureBox7);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.pictureBox8);
-            this.Controls.Add(this.label15);
             this.Controls.Add(this.label16);
             this.Controls.Add(this.label17);
             this.Controls.Add(this.textBox7);
             this.Controls.Add(this.pictureBox9);
-            this.Controls.Add(this.label18);
             this.Controls.Add(this.label19);
             this.Controls.Add(this.label20);
             this.Controls.Add(this.textBox8);
             this.Controls.Add(this.textBox9);
-            this.Controls.Add(this.label6);
-            this.Controls.Add(this.label5);
-            this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
@@ -928,12 +1322,10 @@
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.pictureBox6);
-            this.Controls.Add(this.label4);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.textBox6);
             this.Controls.Add(this.pictureBox14);
-            this.Controls.Add(this.label26);
             this.Controls.Add(this.label28);
             this.Controls.Add(this.label29);
             this.Controls.Add(this.textBox14);
@@ -969,9 +1361,6 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Label label21;
-        private System.Windows.Forms.Label label22;
-        private System.Windows.Forms.Label label23;
         private System.Windows.Forms.Label label24;
         private System.Windows.Forms.Label label25;
         private System.Windows.Forms.PictureBox pictureBox10;
@@ -980,19 +1369,14 @@
         private System.Windows.Forms.PictureBox pictureBox12;
         private System.Windows.Forms.TextBox textBox11;
         private System.Windows.Forms.PictureBox pictureBox13;
-        private System.Windows.Forms.Label label27;
         private System.Windows.Forms.Label label30;
         private System.Windows.Forms.Label label31;
         private System.Windows.Forms.TextBox textBox12;
         private System.Windows.Forms.PictureBox pictureBox15;
-        private System.Windows.Forms.Label label33;
         private System.Windows.Forms.Label label34;
         private System.Windows.Forms.Label label35;
         private System.Windows.Forms.TextBox textBox13;
         private System.Windows.Forms.TextBox textBox15;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.PictureBox pictureBox3;
@@ -1001,19 +1385,14 @@
         private System.Windows.Forms.PictureBox pictureBox7;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.PictureBox pictureBox8;
-        private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.TextBox textBox7;
         private System.Windows.Forms.PictureBox pictureBox9;
-        private System.Windows.Forms.Label label18;
         private System.Windows.Forms.Label label19;
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.TextBox textBox8;
         private System.Windows.Forms.TextBox textBox9;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox pictureBox1;
@@ -1022,12 +1401,10 @@
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.PictureBox pictureBox6;
-        private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.TextBox textBox6;
         private System.Windows.Forms.PictureBox pictureBox14;
-        private System.Windows.Forms.Label label26;
         private System.Windows.Forms.Label label28;
         private System.Windows.Forms.Label label29;
         private System.Windows.Forms.TextBox textBox14;
@@ -1038,5 +1415,50 @@
         private System.Windows.Forms.PictureBox pictureBox16;
         private System.Windows.Forms.Label label36;
         private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Label label33;
+        private System.Windows.Forms.Label label27;
+        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.Label label26;
+        private System.Windows.Forms.Label label37;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label38;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label21;
+        private System.Windows.Forms.Label label22;
+        private System.Windows.Forms.Label label23;
+        private System.Windows.Forms.Label label39;
+        private System.Windows.Forms.Label label40;
+        private System.Windows.Forms.Label label41;
+        private System.Windows.Forms.Label label42;
+        private System.Windows.Forms.Label label43;
+        private System.Windows.Forms.Label label44;
+        private System.Windows.Forms.Label label45;
+        private System.Windows.Forms.Label label46;
+        private System.Windows.Forms.Label label47;
+        private System.Windows.Forms.Label label48;
+        private System.Windows.Forms.Label label49;
+        private System.Windows.Forms.Label label50;
+        private System.Windows.Forms.Label label51;
+        private System.Windows.Forms.Label label52;
+        private System.Windows.Forms.Label label53;
+        private System.Windows.Forms.Label label54;
+        private System.Windows.Forms.Label label55;
+        private System.Windows.Forms.Label label56;
+        private System.Windows.Forms.Label label57;
+        private System.Windows.Forms.Label label58;
+        private System.Windows.Forms.Label label59;
+        private System.Windows.Forms.Label label60;
+        private System.Windows.Forms.Label label61;
+        private System.Windows.Forms.Label label62;
+        private System.Windows.Forms.Label label63;
+        private System.Windows.Forms.Label label64;
+        private System.Windows.Forms.Label label65;
+        private System.Windows.Forms.Label label66;
     }
 }

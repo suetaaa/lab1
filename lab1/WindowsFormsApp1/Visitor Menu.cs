@@ -38,5 +38,11 @@ namespace WindowsFormsApp1
             Form adminForm = new Teams_main();
             adminForm.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Form1();
+            adminForm.Show();
+        }
     }
 }

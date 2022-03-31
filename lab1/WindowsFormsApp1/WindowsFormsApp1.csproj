@@ -64,6 +64,12 @@
     <Compile Include="Team Detail.Designer.cs">
       <DependentUpon>Team Detail.cs</DependentUpon>
     </Compile>
+    <Compile Include="Team Detail2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Team Detail2.Designer.cs">
+      <DependentUpon>Team Detail2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Team.cs" />
     <Compile Include="Teams main 2 .cs">
       <SubType>Form</SubType>
@@ -98,6 +104,9 @@
     </Compile>
     <EmbeddedResource Include="Team Detail.resx">
       <DependentUpon>Team Detail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Team Detail2.resx">
+      <DependentUpon>Team Detail2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Teams main 2 .resx">
       <DependentUpon>Teams main 2 .cs</DependentUpon>

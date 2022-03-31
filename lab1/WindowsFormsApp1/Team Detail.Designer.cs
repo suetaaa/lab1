@@ -103,6 +103,7 @@
             this.button2.TabIndex = 114;
             this.button2.Text = "Search";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
@@ -113,6 +114,7 @@
             this.button1.TabIndex = 113;
             this.button1.Text = "2016-2017 ";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox36
             // 
@@ -122,6 +124,7 @@
             this.textBox36.TabIndex = 108;
             this.textBox36.Text = ".........";
             this.textBox36.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox36.TextChanged += new System.EventHandler(this.textBox36_TextChanged);
             // 
             // textBox37
             // 
@@ -131,6 +134,7 @@
             this.textBox37.TabIndex = 107;
             this.textBox37.Text = "......";
             this.textBox37.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox37.TextChanged += new System.EventHandler(this.textBox37_TextChanged);
             // 
             // textBox38
             // 
@@ -140,6 +144,7 @@
             this.textBox38.TabIndex = 106;
             this.textBox38.Text = ".....................";
             this.textBox38.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox38.TextChanged += new System.EventHandler(this.textBox38_TextChanged);
             // 
             // textBox39
             // 
@@ -149,6 +154,7 @@
             this.textBox39.TabIndex = 105;
             this.textBox39.Text = "................";
             this.textBox39.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox39.TextChanged += new System.EventHandler(this.textBox39_TextChanged);
             // 
             // textBox40
             // 
@@ -158,6 +164,7 @@
             this.textBox40.TabIndex = 104;
             this.textBox40.Text = "..............";
             this.textBox40.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox40.TextChanged += new System.EventHandler(this.textBox40_TextChanged);
             // 
             // textBox41
             // 
@@ -167,6 +174,7 @@
             this.textBox41.TabIndex = 103;
             this.textBox41.Text = ".........";
             this.textBox41.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox41.TextChanged += new System.EventHandler(this.textBox41_TextChanged);
             // 
             // textBox42
             // 
@@ -176,6 +184,7 @@
             this.textBox42.TabIndex = 102;
             this.textBox42.Text = ".........................";
             this.textBox42.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox42.TextChanged += new System.EventHandler(this.textBox42_TextChanged);
             // 
             // textBox43
             // 
@@ -186,6 +195,7 @@
             this.textBox43.TabIndex = 101;
             this.textBox43.Text = "C";
             this.textBox43.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox43.TextChanged += new System.EventHandler(this.textBox43_TextChanged);
             // 
             // textBox44
             // 
@@ -196,6 +206,7 @@
             this.textBox44.TabIndex = 100;
             this.textBox44.Text = "99";
             this.textBox44.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox44.TextChanged += new System.EventHandler(this.textBox44_TextChanged);
             // 
             // textBox45
             // 
@@ -206,6 +217,7 @@
             this.textBox45.TabIndex = 99;
             this.textBox45.Text = "Florida";
             this.textBox45.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox45.TextChanged += new System.EventHandler(this.textBox45_TextChanged);
             // 
             // textBox46
             // 
@@ -216,6 +228,7 @@
             this.textBox46.TabIndex = 98;
             this.textBox46.Text = "Al Horford";
             this.textBox46.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox46.TextChanged += new System.EventHandler(this.textBox46_TextChanged);
             // 
             // textBox47
             // 
@@ -224,6 +237,7 @@
             this.textBox47.Name = "textBox47";
             this.textBox47.Size = new System.Drawing.Size(90, 20);
             this.textBox47.TabIndex = 97;
+            this.textBox47.TextChanged += new System.EventHandler(this.textBox47_TextChanged);
             // 
             // textBox48
             // 
@@ -234,6 +248,7 @@
             this.textBox48.TabIndex = 96;
             this.textBox48.Text = "6";
             this.textBox48.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox48.TextChanged += new System.EventHandler(this.textBox48_TextChanged);
             // 
             // textBox49
             // 
@@ -244,6 +259,7 @@
             this.textBox49.TabIndex = 95;
             this.textBox49.Text = "$26,540,100";
             this.textBox49.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox49.TextChanged += new System.EventHandler(this.textBox49_TextChanged);
             // 
             // textBox50
             // 
@@ -253,6 +269,7 @@
             this.textBox50.TabIndex = 94;
             this.textBox50.Text = "SF";
             this.textBox50.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox50.TextChanged += new System.EventHandler(this.textBox50_TextChanged);
             // 
             // textBox51
             // 
@@ -262,6 +279,7 @@
             this.textBox51.TabIndex = 93;
             this.textBox51.Text = "42";
             this.textBox51.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox51.TextChanged += new System.EventHandler(this.textBox51_TextChanged);
             // 
             // textBox52
             // 
@@ -269,6 +287,7 @@
             this.textBox52.Name = "textBox52";
             this.textBox52.Size = new System.Drawing.Size(155, 20);
             this.textBox52.TabIndex = 92;
+            this.textBox52.TextChanged += new System.EventHandler(this.textBox52_TextChanged);
             // 
             // textBox53
             // 
@@ -278,6 +297,7 @@
             this.textBox53.TabIndex = 91;
             this.textBox53.Text = "Gerald Green";
             this.textBox53.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox53.TextChanged += new System.EventHandler(this.textBox53_TextChanged);
             // 
             // textBox54
             // 
@@ -285,6 +305,7 @@
             this.textBox54.Name = "textBox54";
             this.textBox54.Size = new System.Drawing.Size(90, 20);
             this.textBox54.TabIndex = 90;
+            this.textBox54.TextChanged += new System.EventHandler(this.textBox54_TextChanged);
             // 
             // textBox55
             // 
@@ -294,6 +315,7 @@
             this.textBox55.TabIndex = 89;
             this.textBox55.Text = "5";
             this.textBox55.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox55.TextChanged += new System.EventHandler(this.textBox55_TextChanged);
             // 
             // textBox56
             // 
@@ -303,6 +325,7 @@
             this.textBox56.TabIndex = 88;
             this.textBox56.Text = "$980,431";
             this.textBox56.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox56.TextChanged += new System.EventHandler(this.textBox56_TextChanged);
             // 
             // textBox15
             // 
@@ -313,6 +336,7 @@
             this.textBox15.TabIndex = 87;
             this.textBox15.Text = "SF";
             this.textBox15.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox15.TextChanged += new System.EventHandler(this.textBox15_TextChanged);
             // 
             // textBox16
             // 
@@ -323,6 +347,7 @@
             this.textBox16.TabIndex = 86;
             this.textBox16.Text = "30";
             this.textBox16.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox16.TextChanged += new System.EventHandler(this.textBox16_TextChanged);
             // 
             // textBox17
             // 
@@ -333,6 +358,7 @@
             this.textBox17.TabIndex = 85;
             this.textBox17.Text = "Marquette";
             this.textBox17.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox17.TextChanged += new System.EventHandler(this.textBox17_TextChanged);
             // 
             // textBox18
             // 
@@ -343,6 +369,7 @@
             this.textBox18.TabIndex = 84;
             this.textBox18.Text = "Jae Crowder";
             this.textBox18.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox18.TextChanged += new System.EventHandler(this.textBox18_TextChanged);
             // 
             // textBox19
             // 
@@ -351,6 +378,7 @@
             this.textBox19.Name = "textBox19";
             this.textBox19.Size = new System.Drawing.Size(90, 20);
             this.textBox19.TabIndex = 83;
+            this.textBox19.TextChanged += new System.EventHandler(this.textBox19_TextChanged);
             // 
             // textBox20
             // 
@@ -361,6 +389,7 @@
             this.textBox20.TabIndex = 82;
             this.textBox20.Text = "3";
             this.textBox20.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox20.TextChanged += new System.EventHandler(this.textBox20_TextChanged);
             // 
             // textBox21
             // 
@@ -371,6 +400,7 @@
             this.textBox21.TabIndex = 81;
             this.textBox21.Text = "$6,286,408";
             this.textBox21.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox21.TextChanged += new System.EventHandler(this.textBox21_TextChanged);
             // 
             // textBox22
             // 
@@ -381,6 +411,7 @@
             this.textBox22.TabIndex = 80;
             this.textBox22.Text = "SF";
             this.textBox22.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox22.TextChanged += new System.EventHandler(this.textBox22_TextChanged);
             // 
             // textBox23
             // 
@@ -391,6 +422,7 @@
             this.textBox23.TabIndex = 79;
             this.textBox23.Text = "7";
             this.textBox23.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox23.TextChanged += new System.EventHandler(this.textBox23_TextChanged);
             // 
             // textBox24
             // 
@@ -401,6 +433,7 @@
             this.textBox24.TabIndex = 78;
             this.textBox24.Text = "California";
             this.textBox24.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox24.TextChanged += new System.EventHandler(this.textBox24_TextChanged);
             // 
             // textBox25
             // 
@@ -411,6 +444,7 @@
             this.textBox25.TabIndex = 77;
             this.textBox25.Text = "Jaylen Brown";
             this.textBox25.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox25.TextChanged += new System.EventHandler(this.textBox25_TextChanged);
             // 
             // textBox26
             // 
@@ -419,6 +453,7 @@
             this.textBox26.Name = "textBox26";
             this.textBox26.Size = new System.Drawing.Size(90, 20);
             this.textBox26.TabIndex = 76;
+            this.textBox26.TextChanged += new System.EventHandler(this.textBox26_TextChanged);
             // 
             // textBox27
             // 
@@ -428,6 +463,7 @@
             this.textBox27.TabIndex = 75;
             this.textBox27.Text = "0";
             this.textBox27.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox27.TextChanged += new System.EventHandler(this.textBox27_TextChanged);
             // 
             // textBox28
             // 
@@ -437,6 +473,7 @@
             this.textBox28.TabIndex = 74;
             this.textBox28.Text = "$4,743,000";
             this.textBox28.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox28.TextChanged += new System.EventHandler(this.textBox28_TextChanged);
             // 
             // textBox1
             // 
@@ -447,6 +484,7 @@
             this.textBox1.TabIndex = 73;
             this.textBox1.Text = "SG";
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox6
             // 
@@ -457,6 +495,7 @@
             this.textBox6.TabIndex = 72;
             this.textBox6.Text = "0";
             this.textBox6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox6.TextChanged += new System.EventHandler(this.textBox6_TextChanged);
             // 
             // textBox10
             // 
@@ -467,6 +506,7 @@
             this.textBox10.TabIndex = 71;
             this.textBox10.Text = "Texas";
             this.textBox10.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox10.TextChanged += new System.EventHandler(this.textBox10_TextChanged);
             // 
             // textBox11
             // 
@@ -477,6 +517,7 @@
             this.textBox11.TabIndex = 70;
             this.textBox11.Text = "Avery Bradley";
             this.textBox11.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox11.TextChanged += new System.EventHandler(this.textBox11_TextChanged);
             // 
             // textBox12
             // 
@@ -485,6 +526,7 @@
             this.textBox12.Name = "textBox12";
             this.textBox12.Size = new System.Drawing.Size(90, 20);
             this.textBox12.TabIndex = 69;
+            this.textBox12.TextChanged += new System.EventHandler(this.textBox12_TextChanged);
             // 
             // textBox13
             // 
@@ -495,6 +537,7 @@
             this.textBox13.TabIndex = 68;
             this.textBox13.Text = "3";
             this.textBox13.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox13.TextChanged += new System.EventHandler(this.textBox13_TextChanged);
             // 
             // textBox14
             // 
@@ -505,6 +548,7 @@
             this.textBox14.TabIndex = 67;
             this.textBox14.Text = "$8,269,663";
             this.textBox14.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox14.TextChanged += new System.EventHandler(this.textBox14_TextChanged);
             // 
             // textBox3
             // 
@@ -513,6 +557,7 @@
             this.textBox3.Size = new System.Drawing.Size(62, 20);
             this.textBox3.TabIndex = 66;
             this.textBox3.Text = "   Position";
+            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // textBox2
             // 
@@ -521,6 +566,7 @@
             this.textBox2.Size = new System.Drawing.Size(62, 20);
             this.textBox2.TabIndex = 65;
             this.textBox2.Text = "      No.";
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // textBox9
             // 
@@ -529,6 +575,7 @@
             this.textBox9.Size = new System.Drawing.Size(155, 20);
             this.textBox9.TabIndex = 64;
             this.textBox9.Text = "                  College";
+            this.textBox9.TextChanged += new System.EventHandler(this.textBox9_TextChanged);
             // 
             // textBox8
             // 
@@ -537,6 +584,7 @@
             this.textBox8.Size = new System.Drawing.Size(155, 20);
             this.textBox8.TabIndex = 63;
             this.textBox8.Text = "                   Name";
+            this.textBox8.TextChanged += new System.EventHandler(this.textBox8_TextChanged);
             // 
             // textBox7
             // 
@@ -545,6 +593,7 @@
             this.textBox7.Size = new System.Drawing.Size(90, 20);
             this.textBox7.TabIndex = 62;
             this.textBox7.Text = "    DateofBirth";
+            this.textBox7.TextChanged += new System.EventHandler(this.textBox7_TextChanged);
             // 
             // textBox5
             // 
@@ -553,6 +602,7 @@
             this.textBox5.Size = new System.Drawing.Size(62, 20);
             this.textBox5.TabIndex = 61;
             this.textBox5.Text = "  Exprience";
+            this.textBox5.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
             // 
             // textBox4
             // 
@@ -561,6 +611,7 @@
             this.textBox4.Size = new System.Drawing.Size(155, 20);
             this.textBox4.TabIndex = 60;
             this.textBox4.Text = "                   Salary";
+            this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
             // textBox29
             // 
@@ -569,6 +620,7 @@
             this.textBox29.Name = "textBox29";
             this.textBox29.Size = new System.Drawing.Size(756, 221);
             this.textBox29.TabIndex = 109;
+            this.textBox29.TextChanged += new System.EventHandler(this.textBox29_TextChanged);
             // 
             // textBox31
             // 
@@ -580,6 +632,7 @@
             this.textBox31.Size = new System.Drawing.Size(100, 31);
             this.textBox31.TabIndex = 111;
             this.textBox31.Text = "   Lineup";
+            this.textBox31.TextChanged += new System.EventHandler(this.textBox31_TextChanged);
             // 
             // textBox32
             // 
@@ -591,6 +644,7 @@
             this.textBox32.Size = new System.Drawing.Size(100, 31);
             this.textBox32.TabIndex = 112;
             this.textBox32.Text = "    Matchup";
+            this.textBox32.TextChanged += new System.EventHandler(this.textBox32_TextChanged);
             // 
             // textBox30
             // 
@@ -601,6 +655,7 @@
             this.textBox30.Size = new System.Drawing.Size(100, 31);
             this.textBox30.TabIndex = 110;
             this.textBox30.Text = "       Roster";
+            this.textBox30.TextChanged += new System.EventHandler(this.textBox30_TextChanged);
             // 
             // label1
             // 
@@ -611,6 +666,7 @@
             this.label1.Size = new System.Drawing.Size(371, 20);
             this.label1.TabIndex = 115;
             this.label1.Text = "Team Name  I   Division Name of Conferense Name";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button4
             // 
@@ -632,6 +688,7 @@
             this.label36.TabIndex = 303;
             this.label36.Text = "Team Detail";
             this.label36.UseMnemonic = false;
+            this.label36.Click += new System.EventHandler(this.label36_Click);
             // 
             // label32
             // 
@@ -642,6 +699,7 @@
             this.label32.Size = new System.Drawing.Size(221, 35);
             this.label32.TabIndex = 305;
             this.label32.Text = "NBA Management System";
+            this.label32.Click += new System.EventHandler(this.label32_Click);
             // 
             // pictureBox16
             // 
@@ -652,6 +710,7 @@
             this.pictureBox16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox16.TabIndex = 304;
             this.pictureBox16.TabStop = false;
+            this.pictureBox16.Click += new System.EventHandler(this.pictureBox16_Click);
             // 
             // label13
             // 
@@ -664,6 +723,7 @@
             this.label13.TabIndex = 306;
             this.label13.Text = "The current season is 2016-2017,and the NBA already has a history of 71 years";
             this.label13.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label13.Click += new System.EventHandler(this.label13_Click);
             // 
             // pictureBox1
             // 
@@ -674,6 +734,7 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 307;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // Team_Detail
             // 

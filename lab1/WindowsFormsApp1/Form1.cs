@@ -129,7 +129,7 @@ namespace WindowsFormsApp1
 
         }
 
-        private void button1_Click_1(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
             index = index - 1;
             if (index < 0) index = imgList.Length - 3;

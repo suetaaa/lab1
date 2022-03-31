@@ -10,17 +10,31 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Team_Detail : Form
+    public partial class Team_Detail2 : Form
     {
-        public Team_Detail()
+        public Team_Detail2()
         {
             InitializeComponent();
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void textBox29_TextChanged(object sender, EventArgs e)
         {
-            Form adminForm = new Teams_main();
-            adminForm.Show();
+
+        }
+
+        private void label13_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label32_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox16_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void label36_Click(object sender, EventArgs e)
@@ -28,7 +42,17 @@ namespace WindowsFormsApp1
 
         }
 
-        private void textBox29_TextChanged(object sender, EventArgs e)
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
         {
 
         }
@@ -103,7 +127,7 @@ namespace WindowsFormsApp1
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void textBox49_TextChanged(object sender, EventArgs e)
         {
 
         }
@@ -283,7 +307,7 @@ namespace WindowsFormsApp1
 
         }
 
-        private void textBox49_TextChanged(object sender, EventArgs e)
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }
@@ -303,27 +327,7 @@ namespace WindowsFormsApp1
 
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label32_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox16_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label13_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void textBox2_TextChanged_1(object sender, EventArgs e)
         {
 
         }

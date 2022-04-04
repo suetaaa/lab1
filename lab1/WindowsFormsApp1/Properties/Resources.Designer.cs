@@ -63,6 +63,16 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _24887a5f2cf2301a1571ef4f582150a1 {
+            get {
+                object obj = ResourceManager.GetObject("24887a5f2cf2301a1571ef4f582150a1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap rheu {
             get {
                 object obj = ResourceManager.GetObject("rheu", resourceCulture);

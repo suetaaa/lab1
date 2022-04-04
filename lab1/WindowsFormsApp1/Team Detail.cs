@@ -327,5 +327,20 @@ namespace WindowsFormsApp1
         {
 
         }
+
+
+       
+
+        private void button54_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail_2();
+            adminForm.Show();
+        }
+
+        private void button53_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail_3();
+            adminForm.Show();
+        }
     }
 }

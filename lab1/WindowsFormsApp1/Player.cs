@@ -11,11 +11,11 @@ namespace WindowsFormsApp1
         String playerId;
         String lastNam;
         String firstName;
-        String height;
-        String weight;
+        float height;
+        float weight;
         String countryCode;
 
-        public void setAll(String playerId, String lastNam, String firstName, String height, String weight, String countryCode)
+        public void setAll(String playerId, String lastNam, String firstName, float height, float weight, String countryCode)
         {
             this.playerId = playerId;
             this.lastNam = lastNam;

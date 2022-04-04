@@ -13,21 +13,15 @@ namespace WindowsFormsApp1
         string abbr;
         string logo;
 
-        public void setTeamId(int teamId)
+        public void setAll(int teamId, string name, string abbr, string logo)
         {
-            this.teamId = teamId; 
+            this.teamId = teamId;
+            this.name = name;
+            this.abbr = abbr;
+            this.logo = logo;
         }
-        public void setName(string name)
-        {
-            this.name = name; 
-        }
-        public void setAbbr(string abbr)
-        {
-            this.abbr = abbr; 
-        }
-        public void setLogo(string logo)
-        {
-            this.logo = logo; 
-        }
+        
+      
+        
     }
 }

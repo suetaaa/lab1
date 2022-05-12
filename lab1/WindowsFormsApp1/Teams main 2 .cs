@@ -157,6 +157,9 @@ namespace WindowsFormsApp1
         private void h1_Click(object sender, EventArgs e)
         {
 
+            Team_Detail team = new Team_Detail();
+            team.teamId = 1;
+            team.Show();
         }
 
         private void label18_Click(object sender, EventArgs e)
@@ -337,6 +340,118 @@ namespace WindowsFormsApp1
         {
             Form adminForm = new Team_Detail_2();
             adminForm.Show();
+        }
+
+        private void h2_Click(object sender, EventArgs e)
+        {
+
+            Team_Detail team = new Team_Detail();
+            team.teamId = 1;
+            team.Show();
+        }
+
+        private void h3_Click(object sender, EventArgs e)
+        {
+
+            Team_Detail team = new Team_Detail();
+            team.teamId = 1;
+            team.Show();
+        }
+
+        private void h4_Click(object sender, EventArgs e)
+        {
+
+            Team_Detail team = new Team_Detail();
+            team.teamId = 1;
+            team.Show();
+        }
+
+        private void h5_Click(object sender, EventArgs e)
+        {
+
+            Team_Detail team = new Team_Detail();
+            team.teamId = 1;
+            team.Show();
+        }
+
+        private void f1_Click(object sender, EventArgs e)
+        {
+
+            Team_Detail team = new Team_Detail();
+            team.teamId = 1;
+            team.Show();
+        }
+
+        private void f2_Click(object sender, EventArgs e)
+        {
+
+            Team_Detail team = new Team_Detail();
+            team.teamId = 1;
+            team.Show();
+        }
+
+        private void f3_Click(object sender, EventArgs e)
+        {
+
+            Team_Detail team = new Team_Detail();
+            team.teamId = 1;
+            team.Show();
+        }
+
+        private void f4_Click(object sender, EventArgs e)
+        {
+
+            Team_Detail team = new Team_Detail();
+            team.teamId = 1;
+            team.Show();
+        }
+
+        private void f5_Click(object sender, EventArgs e)
+        {
+
+            Team_Detail team = new Team_Detail();
+            team.teamId = 1;
+            team.Show();
+        }
+
+        private void y1_Click(object sender, EventArgs e)
+        {
+
+            Team_Detail team = new Team_Detail();
+            team.teamId = 1;
+            team.Show();
+        }
+
+        private void y2_Click(object sender, EventArgs e)
+        {
+
+            Team_Detail team = new Team_Detail();
+            team.teamId = 1;
+            team.Show();
+        }
+
+        private void y3_Click(object sender, EventArgs e)
+        {
+
+            Team_Detail team = new Team_Detail();
+            team.teamId = 1;
+            team.Show();
+        }
+
+        private void y4_Click(object sender, EventArgs e)
+        {
+
+            Team_Detail team = new Team_Detail();
+            team.teamId = 1;
+            team.Show();
+        }
+
+        private void y5_Click(object sender, EventArgs e)
+        {
+
+            Team_Detail team = new Team_Detail();
+            team.teamId = 1;
+            team.Show();
         }
     }
 }

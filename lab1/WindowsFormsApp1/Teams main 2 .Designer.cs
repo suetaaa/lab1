@@ -209,6 +209,7 @@
             this.h5.Size = new System.Drawing.Size(80, 15);
             this.h5.TabIndex = 287;
             this.h5.Text = "Teams name";
+            this.h5.Click += new System.EventHandler(this.h5_Click);
             // 
             // h4
             // 
@@ -219,6 +220,7 @@
             this.h4.Size = new System.Drawing.Size(80, 15);
             this.h4.TabIndex = 286;
             this.h4.Text = "Teams name";
+            this.h4.Click += new System.EventHandler(this.h4_Click);
             // 
             // Lg5
             // 
@@ -291,6 +293,7 @@
             this.h3.Size = new System.Drawing.Size(80, 15);
             this.h3.TabIndex = 277;
             this.h3.Text = "Teams name";
+            this.h3.Click += new System.EventHandler(this.h3_Click);
             // 
             // h2
             // 
@@ -301,6 +304,7 @@
             this.h2.Size = new System.Drawing.Size(80, 15);
             this.h2.TabIndex = 276;
             this.h2.Text = "Teams name";
+            this.h2.Click += new System.EventHandler(this.h2_Click);
             // 
             // textBox12
             // 
@@ -370,6 +374,7 @@
             this.f5.Size = new System.Drawing.Size(80, 15);
             this.f5.TabIndex = 266;
             this.f5.Text = "Teams name";
+            this.f5.Click += new System.EventHandler(this.f5_Click);
             // 
             // f4
             // 
@@ -380,6 +385,7 @@
             this.f4.Size = new System.Drawing.Size(80, 15);
             this.f4.TabIndex = 265;
             this.f4.Text = "Teams name";
+            this.f4.Click += new System.EventHandler(this.f4_Click);
             // 
             // Lg10
             // 
@@ -452,6 +458,7 @@
             this.f3.Size = new System.Drawing.Size(80, 15);
             this.f3.TabIndex = 256;
             this.f3.Text = "Teams name";
+            this.f3.Click += new System.EventHandler(this.f3_Click);
             // 
             // f2
             // 
@@ -462,6 +469,7 @@
             this.f2.Size = new System.Drawing.Size(80, 15);
             this.f2.TabIndex = 255;
             this.f2.Text = "Teams name";
+            this.f2.Click += new System.EventHandler(this.f2_Click);
             // 
             // textBox7
             // 
@@ -502,6 +510,7 @@
             this.f1.Size = new System.Drawing.Size(80, 15);
             this.f1.TabIndex = 250;
             this.f1.Text = "Teams name";
+            this.f1.Click += new System.EventHandler(this.f1_Click);
             // 
             // textBox8
             // 
@@ -530,6 +539,7 @@
             this.y5.Size = new System.Drawing.Size(80, 15);
             this.y5.TabIndex = 245;
             this.y5.Text = "Teams name";
+            this.y5.Click += new System.EventHandler(this.y5_Click);
             // 
             // y4
             // 
@@ -540,6 +550,7 @@
             this.y4.Size = new System.Drawing.Size(80, 15);
             this.y4.TabIndex = 244;
             this.y4.Text = "Teams name";
+            this.y4.Click += new System.EventHandler(this.y4_Click);
             // 
             // Lg15
             // 
@@ -612,6 +623,7 @@
             this.y3.Size = new System.Drawing.Size(80, 15);
             this.y3.TabIndex = 235;
             this.y3.Text = "Teams name";
+            this.y3.Click += new System.EventHandler(this.y3_Click);
             // 
             // y2
             // 
@@ -622,6 +634,7 @@
             this.y2.Size = new System.Drawing.Size(80, 15);
             this.y2.TabIndex = 234;
             this.y2.Text = "Teams name";
+            this.y2.Click += new System.EventHandler(this.y2_Click);
             // 
             // textBox6
             // 
@@ -662,6 +675,7 @@
             this.y1.Size = new System.Drawing.Size(80, 15);
             this.y1.TabIndex = 229;
             this.y1.Text = "Teams name";
+            this.y1.Click += new System.EventHandler(this.y1_Click);
             // 
             // textBox14
             // 

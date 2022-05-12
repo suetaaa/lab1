@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Form1 : Form
+    internal partial class Form1 : Form
 
     {
         //ImgList
@@ -23,7 +23,7 @@ namespace WindowsFormsApp1
 
         Country[] countries = new Country[5];
         POSITIONNAME[] pOSITIONNAMEs = new POSITIONNAME[5];
-        Player[] players = new Player[5];
+        public static Player[] players = new Player[5];
         Positionofplayer[] positionofplayers = new Positionofplayer[5];
         public Form1()
         {
@@ -55,19 +55,19 @@ namespace WindowsFormsApp1
             positionofplayers[4] = positionofplayer;
 
             Player player = new Player();
-            player.setAll("1", "Mo", "Williams", 1.85f, 89.8f, "US") ;
+            player.setAll(1, "Mo", "Williams", 1.85f, 89.8f, "US") ;
             players[0] = player;
 
-            player.setAll("2", "Alonzo", "Edward Gee", 1.98f, 99f, "US");
+            player.setAll(2, "Alonzo", "Edward Gee", 1.98f, 99f, "US");
             players[1] = player;
 
-            player.setAll("3", "Johnny", "O'Bryant", 2.05f, 116.5f, "US") ;
+            player.setAll(3, "Johnny", "O'Bryant", 2.05f, 116.5f, "US") ;
             players[2] = player;
 
-            player.setAll("4", "Danilo", "Gallinari", 2.08f, 102f, "US");
+            player.setAll(4, "Danilo", "Gallinari", 2.08f, 102f, "US");
             players[3] = player;
 
-            player.setAll("5", "Darrell", "Arthur", 2.06f, 107f, "US");
+            player.setAll(5, "Darrell", "Arthur", 2.06f, 107f, "US");
             players[4] = player;
 
             POSITIONNAME pOSITIONNAME = new POSITIONNAME();

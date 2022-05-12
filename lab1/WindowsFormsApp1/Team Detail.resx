@@ -213,4 +213,10 @@
         p91dG5ubHwzolvYQyzFQpkZIEVWfaqruIzhQOwrqj1qvpf8AqT/n1qwetcFSTlUbbPocJ/u8fQ//2Q==
 </value>
   </data>
+  <metadata name="Name.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Players.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
 </root>

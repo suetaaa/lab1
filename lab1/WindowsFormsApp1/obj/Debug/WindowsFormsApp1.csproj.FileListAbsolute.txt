@@ -101,3 +101,20 @@ C:\Users\neklu\Desktop\Новая папка (3)\lab1\lab1\WindowsFormsApp1\obj\
 C:\Users\neklu\Desktop\Новая папка (3)\lab1\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\neklu\Desktop\Новая папка (3)\lab1\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Team_Detail_2.resources
 C:\Users\neklu\Desktop\Новая папка (3)\lab1\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Team_Detail_3.resources
+C:\Users\neklu\Desktop\hmhgmgf\lab1\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\neklu\Desktop\hmhgmgf\lab1\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\neklu\Desktop\hmhgmgf\lab1\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\neklu\Desktop\hmhgmgf\lab1\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\neklu\Desktop\hmhgmgf\lab1\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\neklu\Desktop\hmhgmgf\lab1\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\neklu\Desktop\hmhgmgf\lab1\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\neklu\Desktop\hmhgmgf\lab1\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Team_Detail_2.resources
+C:\Users\neklu\Desktop\hmhgmgf\lab1\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Team_Detail_3.resources
+C:\Users\neklu\Desktop\hmhgmgf\lab1\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Team_Detail.resources
+C:\Users\neklu\Desktop\hmhgmgf\lab1\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Teams_Main__2_.resources
+C:\Users\neklu\Desktop\hmhgmgf\lab1\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Teams_main.resources
+C:\Users\neklu\Desktop\hmhgmgf\lab1\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Visitor_Menu.resources
+C:\Users\neklu\Desktop\hmhgmgf\lab1\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\neklu\Desktop\hmhgmgf\lab1\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\neklu\Desktop\hmhgmgf\lab1\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\neklu\Desktop\hmhgmgf\lab1\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

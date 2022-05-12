@@ -8,7 +8,7 @@ namespace WindowsFormsApp1
 {
     internal class Team
     {
-        int teamId;
+        public int teamId;
         public string name;
         string abbr;
         string logo;

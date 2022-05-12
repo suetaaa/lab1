@@ -208,6 +208,7 @@
             this.rh5.Size = new System.Drawing.Size(80, 15);
             this.rh5.TabIndex = 218;
             this.rh5.Text = "Teams name";
+            this.rh5.Click += new System.EventHandler(this.rh5_Click);
             // 
             // rh4
             // 
@@ -218,6 +219,7 @@
             this.rh4.Size = new System.Drawing.Size(80, 15);
             this.rh4.TabIndex = 217;
             this.rh4.Text = "Teams name";
+            this.rh4.Click += new System.EventHandler(this.rh4_Click);
             // 
             // Logo5
             // 
@@ -290,6 +292,7 @@
             this.rh3.Size = new System.Drawing.Size(80, 15);
             this.rh3.TabIndex = 208;
             this.rh3.Text = "Teams name";
+            this.rh3.Click += new System.EventHandler(this.rh3_Click);
             // 
             // rh2
             // 
@@ -300,6 +303,7 @@
             this.rh2.Size = new System.Drawing.Size(80, 15);
             this.rh2.TabIndex = 207;
             this.rh2.Text = "Teams name";
+            this.rh2.Click += new System.EventHandler(this.rh2_Click);
             // 
             // a2
             // 
@@ -368,6 +372,7 @@
             this.rn5.Size = new System.Drawing.Size(80, 15);
             this.rn5.TabIndex = 197;
             this.rn5.Text = "Teams name";
+            this.rn5.Click += new System.EventHandler(this.rn5_Click);
             // 
             // rn4
             // 
@@ -378,6 +383,7 @@
             this.rn4.Size = new System.Drawing.Size(80, 15);
             this.rn4.TabIndex = 196;
             this.rn4.Text = "Teams name";
+            this.rn4.Click += new System.EventHandler(this.rn4_Click);
             // 
             // Logo10
             // 
@@ -450,6 +456,7 @@
             this.rn3.Size = new System.Drawing.Size(80, 15);
             this.rn3.TabIndex = 187;
             this.rn3.Text = "Teams name";
+            this.rn3.Click += new System.EventHandler(this.rn3_Click);
             // 
             // rn2
             // 
@@ -460,6 +467,7 @@
             this.rn2.Size = new System.Drawing.Size(80, 15);
             this.rn2.TabIndex = 186;
             this.rn2.Text = "Teams name";
+            this.rn2.Click += new System.EventHandler(this.rn2_Click);
             // 
             // a7
             // 
@@ -500,6 +508,7 @@
             this.rn1.Size = new System.Drawing.Size(80, 15);
             this.rn1.TabIndex = 181;
             this.rn1.Text = "Teams name";
+            this.rn1.Click += new System.EventHandler(this.rn1_Click);
             // 
             // a6
             // 
@@ -528,6 +537,7 @@
             this.r5.Size = new System.Drawing.Size(80, 15);
             this.r5.TabIndex = 176;
             this.r5.Text = "Teams name";
+            this.r5.Click += new System.EventHandler(this.r5_Click);
             // 
             // r4
             // 
@@ -538,6 +548,7 @@
             this.r4.Size = new System.Drawing.Size(80, 15);
             this.r4.TabIndex = 175;
             this.r4.Text = "Teams name";
+            this.r4.Click += new System.EventHandler(this.r4_Click);
             // 
             // Logo15
             // 
@@ -610,6 +621,7 @@
             this.r3.Size = new System.Drawing.Size(80, 15);
             this.r3.TabIndex = 166;
             this.r3.Text = "Teams name";
+            this.r3.Click += new System.EventHandler(this.r3_Click);
             // 
             // r2
             // 
@@ -620,6 +632,7 @@
             this.r2.Size = new System.Drawing.Size(80, 15);
             this.r2.TabIndex = 165;
             this.r2.Text = "Teams name";
+            this.r2.Click += new System.EventHandler(this.r2_Click);
             // 
             // a12
             // 
@@ -660,6 +673,7 @@
             this.r1.Size = new System.Drawing.Size(80, 15);
             this.r1.TabIndex = 160;
             this.r1.Text = "Teams name";
+            this.r1.Click += new System.EventHandler(this.r1_Click);
             // 
             // a11
             // 
